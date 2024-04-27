@@ -1,0 +1,5 @@
+C:/Users/yashk/Desktop/Simplified Signal Processing Pipeline/cmake-build-debug/CMakeFiles/Group-Yash-And-Max-Assignment_SYSC4906.dir
+C:/Users/yashk/Desktop/Simplified Signal Processing Pipeline/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/yashk/Desktop/Simplified Signal Processing Pipeline/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/yashk/Desktop/Simplified Signal Processing Pipeline/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yashk/Desktop/Simplified Signal Processing Pipeline/cmake-build-debug/CMakeFiles/rebuild_cache.dir
