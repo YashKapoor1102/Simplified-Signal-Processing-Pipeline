@@ -1,6 +1,16 @@
 **Author:** Yash Kapoor  
 **Email:** YashKapoor@cmail.carleton.ca
 
+This repository contains a streamlined Signal Processing Pipeline, specifically crafted for the SYSC 4906 C Winter 2024 programming assignment. 
+A detailed description of this project can be found below.
+Developed in collaboration with Max Curkovic, this project demonstrates a range of C++ skills from elementary to complex. 
+It features the use of standard generic algorithms in the execution phase, employs concepts for verifying the order of Processing Units (PUs),
+and ensures exception safety throughout all stages of execution.
+
+Co-developed with Max Curkovic (@maxcurkovic).
+
+Note: The Catch2 framework is required for running tests on the sspp_test.cpp file.
+
 This project is about building a Simple Signal Processing Pipeline (SSPP).
 
 Our pipeline has several Processing Units (PU) that change the signal one after the other.
