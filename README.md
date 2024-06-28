@@ -7,8 +7,6 @@ Developed in collaboration with Max Curkovic, this project demonstrates a range 
 It features the use of standard generic algorithms in the execution phase, employs concepts for verifying the order of Processing Units (PUs),
 and ensures exception safety throughout all stages of execution.
 
-Co-developed with Max Curkovic (@maxcurkovic).
-
 Note: The Catch2 framework is required for running tests on the sspp_test.cpp file.
 
 This project is about building a Simple Signal Processing Pipeline (SSPP).
