@@ -1,7 +1,7 @@
+# Simplified Signal Processing Pipeline 
+
 **Author:** Yash Kapoor  
 **Email:** yashkapooruni@gmail.com
-
-# Simplified Signal Processing Pipeline 
 
 This repository contains a streamlined Signal Processing Pipeline.
 A detailed description of this project can be found below.
