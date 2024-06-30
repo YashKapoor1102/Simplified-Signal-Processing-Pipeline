@@ -11,7 +11,7 @@ Note: The Catch2 framework is required for running tests on the sspp_test.cpp fi
 
 This project is about building a Simple Signal Processing Pipeline (SSPP).
 
-Our pipeline has several Processing Units (PU) that change the signal one after the other.
+My pipeline has several Processing Units (PU) that change the signal one after the other.
 
 In each step, the SSPP takes in a new signal and gives out a new result. 
 However, in the first few steps, it doesn't give out any result.
