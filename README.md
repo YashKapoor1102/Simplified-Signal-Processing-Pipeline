@@ -1,5 +1,5 @@
 **Author:** Yash Kapoor  
-**Email:** YashKapoor@cmail.carleton.ca
+**Email:** yashkapooruni@gmail.com
 
 This repository contains a streamlined Signal Processing Pipeline, specifically crafted for the SYSC 4906 C Winter 2024 programming assignment. 
 A detailed description of this project can be found below.
