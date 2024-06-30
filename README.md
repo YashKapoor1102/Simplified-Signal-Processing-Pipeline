@@ -1,7 +1,7 @@
 **Author:** Yash Kapoor  
 **Email:** yashkapooruni@gmail.com
 
-This repository contains a streamlined Signal Processing Pipeline, specifically crafted for the SYSC 4906 C Winter 2024 programming assignment. 
+This repository contains a streamlined Signal Processing Pipeline.
 A detailed description of this project can be found below.
 This project demonstrates a range of C++ skills from elementary to complex. 
 It features the use of standard generic algorithms in the execution phase, employs concepts for verifying the order of Processing Units (PUs),
